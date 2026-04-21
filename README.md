@@ -21,6 +21,7 @@
 
 <div style="display:flex; flex-wrap:nowrap; justify-content:center; align-items:center; gap:12px; overflow-x:auto; white-space:nowrap; padding:10px;">
 
+
 <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 <img alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">

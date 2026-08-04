@@ -28,4 +28,12 @@
 <img alt="TypeScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
 <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
 
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/FSTorresNeto/FSTorresNeto/output/github-contribution-grid-snake.svg)
+
+</div>
 </div>

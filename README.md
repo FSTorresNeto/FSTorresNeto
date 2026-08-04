@@ -36,4 +36,14 @@
 ![Snake animation](https://raw.githubusercontent.com/FSTorresNeto/FSTorresNeto/output/github-contribution-grid-snake.svg)
 
 </div>
+
+---
+
+<div align="center">
+
+### ⚡ "Transformando ideias em software escalável."
+
+</div>
+
+
 </div>

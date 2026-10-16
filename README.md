@@ -1,151 +1,93 @@
-
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=220&section=header&text=Francisco%20Torres%20Neto&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16365d,100:38bdf8&height=210&section=header&text=Francisco%20Torres%20Neto&fontSize=36&fontColor=f0f6fc&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56" alt="Francisco Torres Neto — Full-Stack Developer" />
 
-### 💻 Desenvolvedor Full-Stack
+### Do backend ao mobile, construindo soluções conectadas.
 
-🎓 Formado em Sistemas de Informação pela UFC
+Desenvolvimento web e mobile · APIs e integrações · Arquitetura de software
 
-🚀 Apaixonado por tecnologia, arquitetura de software e soluções escaláveis
-
-⚡ Experiência com aplicações web, mobile, APIs e microsserviços
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=FSTorresNeto&label=Visualizações%20do%20perfil&color=1f6feb&style=for-the-badge"
-  alt="Visualizações do perfil"
-/>
+<a href="https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/"><img src="https://img.shields.io/badge/LinkedIn-16365D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fstorresneto@gmail.com"><img src="https://img.shields.io/badge/Email-16365D?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" /></a>
+<a href="https://twitter.com/torresneto6"><img src="https://img.shields.io/badge/X-16365D?style=for-the-badge&logo=x&logoColor=white" alt="Perfil no X" /></a>
 
 </div>
 
----
+<br />
+
+## `01` / Sobre mim
+
+Sou **Francisco Torres Neto**, desenvolvedor full-stack formado em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)**.
+
+Atuo no desenvolvimento de aplicações web e mobile, APIs e integrações para o setor financeiro. Tenho interesse em arquitetura de software, segurança e soluções que possam evoluir junto com o negócio.
+
+```typescript
+const torres = {
+  role: "Full-Stack Developer",
+  frontend: ["React", "Next.js", "TypeScript", "Redux"],
+  backend: ["C#", ".NET", "Node.js"],
+  mobile: ["Flutter", "Android", "iOS"],
+  databases: ["PostgreSQL", "MySQL"],
+  interests: ["Arquitetura", "Microsserviços", "Segurança"],
+};
+```
+
+## `02` / Tecnologias
+
+**Interfaces & experiências**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" alt="React, Next.js, TypeScript, JavaScript e Redux" />
+</p>
+
+**Backend & dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql&theme=dark" alt="C#, .NET, Node.js, PostgreSQL e MySQL" />
+</p>
+
+**Mobile & ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,docker,git,linux&theme=dark" alt="Flutter, Firebase, Docker, Git e Linux" />
+</p>
+
+## `03` / O que eu desenvolvo
+
+| Área | Atuação |
+| :--- | :--- |
+| **Soluções financeiras** | Aplicações e integrações para o setor financeiro, incluindo Google Wallet e Apple Wallet. |
+| **Web & APIs** | Interfaces com React e Next.js, APIs REST com .NET e integração entre serviços. |
+| **Plataformas** | Dashboards administrativos, sistemas multiempresa e multi-tenant, autenticação e controle de acesso. |
+| **Mobile** | Aplicativos Flutter para Android e iOS, integração com Firebase e APIs, configuração e publicação nas lojas. |
+| **Arquitetura** | Organização de APIs e microsserviços, com foco em manutenção e evolução das aplicações. |
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
+<a href="https://github.com/FSTorresNeto?tab=repositories"><img src="https://img.shields.io/badge/Explorar_meus_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explorar meus repositórios" /></a>
+
+</div>
+
+## `04` / GitHub em números
+
+<div align="center">
 
 <a href="https://github.com/FSTorresNeto">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=FSTorresNeto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSTorresNeto&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FSTorresNeto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&locale=pt-br" alt="Estatísticas públicas do GitHub de Francisco Torres Neto" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSTorresNeto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&locale=pt-br" alt="Linguagens nos repositórios públicos" />
 </a>
-
-<br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FSTorresNeto&theme=github-dark-blue&hide_border=true"
-  alt="Sequência de contribuições"
-/>
 
 </div>
 
----
+<br />
 
 <div align="center">
 
-## 🚀 Tecnologias e Ferramentas
+### Vamos conversar sobre o próximo projeto?
 
-<p>
-  <img alt="React" title="React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img alt="Next.js" title="Next.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"/>
-  <img alt="Redux" title="Redux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img alt="JavaScript" title="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img alt="Flutter" title="Flutter" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
-  <img alt="Node.js" title="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-</p>
+Aplicações web, mobile e integrações que conectam ideias a soluções.
 
-<p>
-  <img alt="C#" title="C#" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img alt=".NET" title=".NET" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"/>
-  <img alt="PostgreSQL" title="PostgreSQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <img alt="MySQL" title="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img alt="Docker" title="Docker" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-  <img alt="Git" title="Git" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img alt="Linux" title="Linux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-</p>
+**[LinkedIn](https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/) · [fstorresneto@gmail.com](mailto:fstorresneto@gmail.com)**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16365d,100:38bdf8&height=100&section=footer" alt="" />
 
 </div>
-
----
-
-## 🏆 Projetos e áreas de atuação
-
-### 🏦 Soluções financeiras
-
-- Desenvolvimento de aplicações e integrações para o setor financeiro.
-- Integrações com Google Wallet e Apple Wallet.
-- APIs REST utilizando .NET.
-- Aplicações web e mobile com React, Next.js e Flutter.
-
-### 🚀 Plataformas escaláveis
-
-- Arquitetura de APIs e microsserviços.
-- Dashboards administrativos.
-- Sistemas multiempresa e multi-tenant.
-- Autenticação, segurança e controle de acesso.
-
-### 📱 Desenvolvimento mobile
-
-- Aplicativos Android e iOS com Flutter.
-- Integração com Firebase.
-- Comunicação com APIs e serviços externos.
-- Publicação e configuração nas lojas.
-
----
-
-<div align="center">
-
-## 📫 Contato
-
-<a href="https://twitter.com/torresneto6" target="_blank">
-  <img
-    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-    alt="X"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:fstorresneto@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Transformando ideias em software escalável.
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer"
-/>
-
-</div>
-
-</div>
-```

@@ -3,8 +3,6 @@
 <!-- HEADER IMAGE: Replace the URL in src with your own public image URL. Recommended size: 1200 × 300 px. -->
 <img width="100%" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Francisco Torres Neto — Full-Stack Developer" />
 
-### `francisco@github:~$`
-
 From backend to mobile, building connected solutions.
 
 Web and mobile development · APIs and integrations · Software architecture
@@ -18,13 +16,13 @@ Web and mobile development · APIs and integrations · Software architecture
 
 <br />
 
-## `> whoami`
+## About Me
 
 I'm **Francisco Torres Neto**, a full-stack developer with a degree in **Information Systems from the Federal University of Ceará (UFC)**.
 
 I develop web and mobile applications, APIs, and integrations for the financial sector. I'm interested in software architecture, security, and solutions designed to evolve alongside the business.
 
-## `> stack --list`
+## Tech Stack
 
 **Interfaces & experiences**
 
@@ -44,7 +42,7 @@ I develop web and mobile applications, APIs, and integrations for the financial 
   <img src="https://skillicons.dev/icons?i=flutter,firebase,docker,git,linux&theme=dark" alt="Flutter, Firebase, Docker, Git, and Linux" />
 </p>
 
-## `> experience --show`
+## Professional Experience
 
 | Area | Experience |
 | :--- | :--- |
@@ -60,7 +58,7 @@ I develop web and mobile applications, APIs, and integrations for the financial 
 
 </div>
 
-## `> github --stats`
+## GitHub Statistics
 
 <div align="center">
 
@@ -82,7 +80,7 @@ I develop web and mobile applications, APIs, and integrations for the financial 
 
 <div align="center">
 
-### `> contact`
+### Contact
 
 Web and mobile applications and integrations that turn ideas into connected solutions.
 

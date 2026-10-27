@@ -1,80 +1,80 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16365d,100:38bdf8&height=210&section=header&text=Francisco%20Torres%20Neto&fontSize=36&fontColor=f0f6fc&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER&descSize=15&descAlignY=56" alt="Francisco Torres Neto — Full-Stack Developer" />
+<!-- HEADER IMAGE: Replace the URL in src with your own public image URL. Recommended size: 1200 × 300 px. -->
+<img width="100%" src="https://i.pinimg.com/1200x/8d/5b/a4/8d5ba4691a7f877ea25dc5eacca27688.jpg" alt="Francisco Torres Neto — Full-Stack Developer" />
 
-### Do backend ao mobile, construindo soluções conectadas.
+### `francisco@github:~$`
 
-Desenvolvimento web e mobile · APIs e integrações · Arquitetura de software
+From backend to mobile, building connected solutions.
 
-<a href="https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/"><img src="https://img.shields.io/badge/LinkedIn-16365D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:fstorresneto@gmail.com"><img src="https://img.shields.io/badge/Email-16365D?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email" /></a>
-<a href="https://twitter.com/torresneto6"><img src="https://img.shields.io/badge/X-16365D?style=for-the-badge&logo=x&logoColor=white" alt="Perfil no X" /></a>
+Web and mobile development · APIs and integrations · Software architecture
+
+<p>
+  <a href="https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fstorresneto@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+</p>
 
 </div>
 
 <br />
 
-## `01` / Sobre mim
+## `> whoami`
 
-Sou **Francisco Torres Neto**, desenvolvedor full-stack formado em **Sistemas de Informação pela Universidade Federal do Ceará (UFC)**.
+I'm **Francisco Torres Neto**, a full-stack developer with a degree in **Information Systems from the Federal University of Ceará (UFC)**.
 
-Atuo no desenvolvimento de aplicações web e mobile, APIs e integrações para o setor financeiro. Tenho interesse em arquitetura de software, segurança e soluções que possam evoluir junto com o negócio.
+I develop web and mobile applications, APIs, and integrations for the financial sector. I'm interested in software architecture, security, and solutions designed to evolve alongside the business.
 
-```typescript
-const torres = {
-  role: "Full-Stack Developer",
-  frontend: ["React", "Next.js", "TypeScript", "Redux"],
-  backend: ["C#", ".NET", "Node.js"],
-  mobile: ["Flutter", "Android", "iOS"],
-  databases: ["PostgreSQL", "MySQL"],
-  interests: ["Arquitetura", "Microsserviços", "Segurança"],
-};
-```
+## `> stack --list`
 
-## `02` / Tecnologias
-
-**Interfaces & experiências**
+**Interfaces & experiences**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" alt="React, Next.js, TypeScript, JavaScript e Redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux&theme=dark" alt="React, Next.js, TypeScript, JavaScript, and Redux" />
 </p>
 
-**Backend & dados**
+**Backend & data**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql&theme=dark" alt="C#, .NET, Node.js, PostgreSQL e MySQL" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgres,mysql&theme=dark" alt="C#, .NET, Node.js, PostgreSQL, and MySQL" />
 </p>
 
-**Mobile & ferramentas**
+**Mobile & tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,docker,git,linux&theme=dark" alt="Flutter, Firebase, Docker, Git e Linux" />
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,docker,git,linux&theme=dark" alt="Flutter, Firebase, Docker, Git, and Linux" />
 </p>
 
-## `03` / O que eu desenvolvo
+## `> experience --show`
 
-| Área | Atuação |
+| Area | Experience |
 | :--- | :--- |
-| **Soluções financeiras** | Aplicações e integrações para o setor financeiro, incluindo Google Wallet e Apple Wallet. |
-| **Web & APIs** | Interfaces com React e Next.js, APIs REST com .NET e integração entre serviços. |
-| **Plataformas** | Dashboards administrativos, sistemas multiempresa e multi-tenant, autenticação e controle de acesso. |
-| **Mobile** | Aplicativos Flutter para Android e iOS, integração com Firebase e APIs, configuração e publicação nas lojas. |
-| **Arquitetura** | Organização de APIs e microsserviços, com foco em manutenção e evolução das aplicações. |
+| **Financial solutions** | Applications and integrations for the financial sector, including Google Wallet and Apple Wallet. |
+| **Web & APIs** | Interfaces built with React and Next.js, REST APIs developed with .NET, and service integrations. |
+| **Platforms** | Admin dashboards, multi-company and multi-tenant systems, authentication, and access control. |
+| **Mobile** | Flutter applications for Android and iOS, Firebase and API integrations, configuration, and store publishing. |
+| **Architecture** | API and microservice organization focused on application maintainability and evolution. |
 
 <div align="center">
 
-<a href="https://github.com/FSTorresNeto?tab=repositories"><img src="https://img.shields.io/badge/Explorar_meus_repositórios-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explorar meus repositórios" /></a>
+<a href="https://github.com/FSTorresNeto?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_repositories-0D1117?style=for-the-badge&logo=github&logoColor=39FF88" alt="Explore my repositories" /></a>
 
 </div>
 
-## `04` / GitHub em números
+## `> github --stats`
 
 <div align="center">
 
-<a href="https://github.com/FSTorresNeto">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FSTorresNeto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&locale=pt-br" alt="Estatísticas públicas do GitHub de Francisco Torres Neto" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSTorresNeto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&locale=pt-br" alt="Linguagens nos repositórios públicos" />
-</a>
+<p>
+  <a href="https://github.com/FSTorresNeto">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=FSTorresNeto&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff88&icon_color=39ff88&text_color=c9d1d9&locale=en" alt="Francisco Torres Neto's public GitHub statistics" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/FSTorresNeto">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FSTorresNeto&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&locale=en" alt="Most-used languages across public repositories" />
+  </a>
+</p>
 
 </div>
 
@@ -82,12 +82,15 @@ const torres = {
 
 <div align="center">
 
-### Vamos conversar sobre o próximo projeto?
+### `> contact`
 
-Aplicações web, mobile e integrações que conectam ideias a soluções.
+Web and mobile applications and integrations that turn ideas into connected solutions.
 
 **[LinkedIn](https://www.linkedin.com/in/francisco-de-souza-torres-neto-762b511bb/) · [fstorresneto@gmail.com](mailto:fstorresneto@gmail.com)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16365d,100:38bdf8&height=100&section=footer" alt="" />
+<br />
+
+<!-- FOOTER IMAGE: Replace the URL in src with your own public image URL. Recommended size: 1200 × 180 px. -->
+<img width="100%" src="https://placehold.co/1200x180/0d1117/39ff88?text=Thanks+for+visiting" alt="Footer banner" />
 
 </div>
